@@ -1,0 +1,15 @@
+
+Variables : Las variables son cajas que podemos crear donde nosotros podemos guardar cualquier tipo de datos
+
+Strings   : Strings es un tipo de dato dentro de las computadores que representa a las palabras, frases, etc...
+en resumen todo lo que podriamos escribir o hablar en personas.
+
+Funciones : Las funciones son como minis maquinas que podemos crear y guardar para utilizar cuando queramos sin 
+necesidad de volver a crearlas, los argumentos son los materiales con los que trabaja esta maquina y para devolver el "producto" 
+de este proceso utilizamos una palabra especial que es "return".
+
+If  : El operador "if" es una palabra que se usa para hacer una pausa en el sistema y evaluar una condicion 
+en el caso de que sea verdad esa condicion se ejecuta unas instrucciones en el caso que no se continua con lo siguien despues de el if.
+
+Valores booleanos: Estos son un tipo de datos dentro de la computadora, osea un tipo de elementos diferente
+a los strings por ejemplo. Este tipo representa valores de verdad, osea si algo es verdad(true) o no(false) y se usan para ejecutar estructuras de control. 

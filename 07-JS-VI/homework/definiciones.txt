@@ -1,0 +1,9 @@
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* Funciones Callback
+
+Funciones Callback : todas las funciones o "mini maquinas" reciben elementos (argumentos) para trabajar,
+cuando se pasan funciones como argumentos se le llaman Callback y estas pueden usarse dentro de esta nueva 
+funcion sin necesidad de volver a declararse.
+

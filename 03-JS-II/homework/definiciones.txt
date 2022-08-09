@@ -1,0 +1,13 @@
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los 
+siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer 
+esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+For : un bucle for es una estructura de instruciones que puede repetirse las veces que deseamos poniendo una 
+condicion de finalizado, es una maquina que repite lo que queremos que haga las veces que deseemos
+
+&& , ||, ! : estos son operadores logicos que podemos usar para unir expreciones dentro del codigo y de esta manera formar condiciones para las estructuras de 
+control.

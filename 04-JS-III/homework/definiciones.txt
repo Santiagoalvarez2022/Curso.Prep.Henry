@@ -1,0 +1,2 @@
+Arrays : Los array son la representacion digital de las listas que nosotros podemos
+hacer en la vida real, todos los arrays tiene orden.  

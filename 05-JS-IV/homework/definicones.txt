@@ -1,0 +1,21 @@
+ En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	Objetos
+	*Propiedades
+	*Métodos
+	*bucle `for…in`
+	*Notación de puntos vs notación de corchetes
+
+Objetos : los objetos es una manera de almacenar todo tipos de datos de una manera en la que podemos acceder a ellos por medio de una palabra clave o llave. Estos almacenamientos pueden guardar otros objetos dentro.
+
+Propiedades : Los objetos se dividen en partes llamadas propiedades, estas partes tienen una llave
+o palabra clave y luego el dato guardado.
+
+Metodos : los metodos son las funciones que se guardan como prpiedad dentro de los objetos.
+
+Bucle "for..in" : Es una estructura para recorrer todo un objeto propiedad por propiedad.
+
+Notación de puntos vs notación de corchetes: Estas son maneras de acceder las propiedades,
+la notacion de puntos se escribe de la manera siguiente NOMBRE DEL OBJETO.CLAVE DE LA PROPIEDAD y la notacion de corchetes 
+se escribe de la siguiente manera NOMBRE DEL OBJETO["CLAVE DE LA PROPIEDAD ENTRE CORCHETES"] 
+
